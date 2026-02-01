@@ -1,7 +1,7 @@
 # Context-Aware-Recommenders-System-
 This project studies Context-Aware Recommender Systems using deep learning models like NCF, NeuMF, and NeuCMF. We evaluate multiple context representation strategies, including PCC and neural embeddings, on TripAdvisor and Frappe datasets, showing that individual context embeddings improve recommendation accuracy.
 
-Context-Aware Recommendation with Deep Learning
+# Context-Aware Recommendation with Deep Learning
 
 This project investigates how context representation impacts the performance of Context-Aware Recommender Systems (CARS). Traditional recommender systems often rely on limited, predefined contextual variables, which restrict their ability to adapt to real-world scenarios where user preferences vary dynamically.
 
